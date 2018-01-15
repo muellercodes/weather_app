@@ -1,3 +1,23 @@
+# Weather App - a simple react redux app that draws upon the open weather api
+
+## Install
+
+To install:
+`npm install`
+
+To Run:
+`npm start`
+
+Browser:
+`http://localhost:8080`
+
+
+
+==========
+
+# Old Readme
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
